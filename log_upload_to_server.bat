@@ -1,5 +1,5 @@
-:: git config --global user.name "efco-sam"
-:: git config --global user.email "samlee@efco.com.tw"
+git config --global user.name "efco-sam"
+git config --global user.email "samlee@efco.com.tw"
 
 git pull
 git add .
